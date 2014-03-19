@@ -12,9 +12,9 @@
     "author_email": "support@jvitals.com",
     "author_url": "http://jvitals.com",
 	
-	'git_repo' : '/path/to/git_repo/ExtendedReg/',
-	'transifex_working_dir' : '/path/to/transifex_working_dir/',
-	'build_dir' : '/path/to/build_dir',
+	"git_repo" : "/path/to/git_repo/ExtendedReg/",
+	"transifex_working_dir" : "/path/to/transifex_working_dir/",
+	"build_dir" : "/path/to/build_dir",
 	
     "languages": [
 		{"bg-BG":"Bulgarian"},
