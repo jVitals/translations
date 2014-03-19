@@ -7,55 +7,55 @@
     "license": "http://www.gnu.org/copyleft/gpl.html GNU/GPLv3 or alter",
     "header_date": "2014-02-05",
     "header_version": "2.10",
-	
+    
     "author": "jVitals",
     "author_email": "support@jvitals.com",
     "author_url": "http://jvitals.com",
-	
-	"git_repo" : "/path/to/git_repo/ExtendedReg/",
-	"transifex_working_dir" : "/path/to/transifex_working_dir/",
-	"build_dir" : "/path/to/build_dir",
-	
+    
+    "git_repo" : "/path/to/git_repo/ExtendedReg/",
+    "transifex_working_dir" : "/path/to/transifex_working_dir/",
+    "build_dir" : "/path/to/build_dir",
+    
     "languages": [
-		{"bg-BG":"Bulgarian"},
-		{"de-DE":"German"},
-		{"el-GR":"Greek"},
-		{"fi-FI":"Finnish"},
-		{"fr-FR":"French"},
-		{"it-IT":"Italian"},
-		{"lt-LT":"Lithuanian"},
-		{"nl-NL":"Dutch"},
-		{"pl-PL":"Polish"},
-		{"pt-BR":"Portugues (Brazilian)"},
-		{"ru-RU":"Russian"}
-	],
-	
-	"frontend_files": [
-		"adapters/eraddon/en-GB.files_adapter_eraddon.ini",
-		"addons/integration/rockettheme/language/en-GB.com_extendedreg_integration_rockettheme.ini",
-		"com_extendedreg/admin/language/site/en-GB.com_extendedreg.ini",
-		"mod_extendedreg_admin/language/en-GB.mod_extendedreg_admin.ini",
-		"plg_extendedreg_admin_notifier/lang/en-GB.plg_jvPlugins_extendedreg_admin_notifier.ini",
-		"plg_extendedreg_admin_notifier/lang/en-GB.plg_jvplugins_extendedreg_admin_notifier.sys.ini"
-	],
-	
-	"backend_files": [
-		"addons/captcha/recaptcha/language/en-GB.com_extendedreg_captcha_recaptcha.ini",
-		"addons/feature/advanced_export/language/en-GB.com_extendedreg_feature_advanced_export.ini",
-		"addons/field/confirmfield/language/en-GB.com_extendedreg_field_confirmfield.ini",
-		"addons/field/map/language/en-GB.com_extendedreg_field_map.ini",
-		"addons/field/upload/language/en-GB.com_extendedreg_field_upload.ini",
-		"addons/integration/agorapro/ERaddon/language/en-GB.com_extendedreg_integration_agorapro.ini",
-		"addons/integration/edocs/ERaddon/language/en-GB.com_extendedreg_integration_edocs.ini",
-		"addons/integration/jomsocial/ERaddon/language/en-GB.com_extendedreg_integration_jomsocial.ini",
-		"addons/integration/rsmembership/ERaddon/language/en-GB.com_extendedreg_integration_rsmembership.ini",
-		"addons/integration/virtuemart/ERaddon/language/en-GB.com_extendedreg_integration_virtuemart.ini",
-		"addons/validation/allowedlist/language/en-GB.com_extendedreg_validation_allowedlist.ini",
-		"addons/validation/coordinates/language/en-GB.com_extendedreg_validation_coordinates.ini",
-		"addons/validation/emailpro/language/en-GB.com_extendedreg_validation_emailpro.ini",
-		"addons/validation/regexp/language/en-GB.com_extendedreg_validation_regexp.ini",
-		"addons/validation/unique/language/en-GB.com_extendedreg_validation_unique.ini",
-		"com_extendedreg/admin/language/admin/en-GB.com_extendedreg.ini",
-		"com_extendedreg/admin/language/admin/en-GB.com_extendedreg.sys.ini"
-	]
+        {"bg-BG":"Bulgarian"},
+        {"de-DE":"German"},
+        {"el-GR":"Greek"},
+        {"fi-FI":"Finnish"},
+        {"fr-FR":"French"},
+        {"it-IT":"Italian"},
+        {"lt-LT":"Lithuanian"},
+        {"nl-NL":"Dutch"},
+        {"pl-PL":"Polish"},
+        {"pt-BR":"Portugues (Brazilian)"},
+        {"ru-RU":"Russian"}
+    ],
+    
+    "frontend_files": [
+        "adapters/eraddon/en-GB.files_adapter_eraddon.ini",
+        "addons/integration/rockettheme/language/en-GB.com_extendedreg_integration_rockettheme.ini",
+        "com_extendedreg/admin/language/site/en-GB.com_extendedreg.ini",
+        "mod_extendedreg_admin/language/en-GB.mod_extendedreg_admin.ini",
+        "plg_extendedreg_admin_notifier/lang/en-GB.plg_jvPlugins_extendedreg_admin_notifier.ini",
+        "plg_extendedreg_admin_notifier/lang/en-GB.plg_jvplugins_extendedreg_admin_notifier.sys.ini"
+    ],
+    
+    "backend_files": [
+        "addons/captcha/recaptcha/language/en-GB.com_extendedreg_captcha_recaptcha.ini",
+        "addons/feature/advanced_export/language/en-GB.com_extendedreg_feature_advanced_export.ini",
+        "addons/field/confirmfield/language/en-GB.com_extendedreg_field_confirmfield.ini",
+        "addons/field/map/language/en-GB.com_extendedreg_field_map.ini",
+        "addons/field/upload/language/en-GB.com_extendedreg_field_upload.ini",
+        "addons/integration/agorapro/ERaddon/language/en-GB.com_extendedreg_integration_agorapro.ini",
+        "addons/integration/edocs/ERaddon/language/en-GB.com_extendedreg_integration_edocs.ini",
+        "addons/integration/jomsocial/ERaddon/language/en-GB.com_extendedreg_integration_jomsocial.ini",
+        "addons/integration/rsmembership/ERaddon/language/en-GB.com_extendedreg_integration_rsmembership.ini",
+        "addons/integration/virtuemart/ERaddon/language/en-GB.com_extendedreg_integration_virtuemart.ini",
+        "addons/validation/allowedlist/language/en-GB.com_extendedreg_validation_allowedlist.ini",
+        "addons/validation/coordinates/language/en-GB.com_extendedreg_validation_coordinates.ini",
+        "addons/validation/emailpro/language/en-GB.com_extendedreg_validation_emailpro.ini",
+        "addons/validation/regexp/language/en-GB.com_extendedreg_validation_regexp.ini",
+        "addons/validation/unique/language/en-GB.com_extendedreg_validation_unique.ini",
+        "com_extendedreg/admin/language/admin/en-GB.com_extendedreg.ini",
+        "com_extendedreg/admin/language/admin/en-GB.com_extendedreg.sys.ini"
+    ]
 }
